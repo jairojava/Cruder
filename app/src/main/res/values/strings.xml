@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">Cruder</string>
-    <string name="buscar">search</string>
-    <string name="añadir">add</string>
-    <string name="editar">edit</string>
-    <string name="eliminar">delete</string>
-    <string name="ajustes">action_settings</string>
+    <string name="search">buscar</string>
+    <string name="add">añadir</string>
+    <string name="edit">editar</string>
+    <string name="delete">borrar</string>
+    <string name="action_settings">ajustes</string>
 
 </resources>
